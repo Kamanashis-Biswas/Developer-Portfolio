@@ -213,3 +213,8 @@ input{
 .contact a{
     text-decoration: none;
 }
+
+/* Copyright */
+.copyright{
+    text-align: center;
+}
